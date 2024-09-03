@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently working on AIML project.
+👋 Hi, devlopers I'm Subhradip Majumder,
+🎓 Engineering Student | 💻 Software Developer | 🚀 Innovator | 🤖 AI Developer
+
+I have a passion for solving real-world problems through software engineering. From working on GAN models to creating student organizing applications and quiz apps for kids, I'm constantly exploring new technologies to build innovative solutions. Currently, I'm sharpening my skills in C++, Python, and Machine Learning, while also delving into research-based projects.
+When I'm not coding, I'm probably participating in hackathons, contributing to open-source projects, or working on social impact initiatives.
+
+Let's build something amazing together!
 
 
 ## 🌐 Socials:
